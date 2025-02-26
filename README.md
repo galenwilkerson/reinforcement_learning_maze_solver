@@ -19,6 +19,4 @@ This repository demonstrates a simple **reinforcement learning** approach to nav
 
 ## Running the Notebook
 1. Clone this repository or download the notebook directly.
-2. Make sure you have Python 3.7+ and install dependencies:
-   ```bash
-   pip install -r requirements.txt
+2. Make sure you have Python 3.7+
